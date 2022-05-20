@@ -6,7 +6,9 @@ Extension for Contao Open Source CMS that forces members to change their passwor
 [![Total Downloads](https://poser.pugx.org/bastibuck/contao-force-password-change/downloads)](https://packagist.org/packages/bastibuck/contao-force-password-change)
 [![License](https://poser.pugx.org/bastibuck/contao-force-password-change/license)](https://packagist.org/packages/bastibuck/contao-force-password-change)
 
-## Description
+## Description 
+
+A patch with the PR request merged into
 
 With this extension you can redirect members to a page as long as they haven't changed the initial password after importing members with a default password or if you want a member to reset the password (e.g. if the admin has reset the password in the BE).
 
